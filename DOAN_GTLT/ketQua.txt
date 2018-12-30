@@ -1,0 +1,4 @@
+Duong di thu duoc luong mat lon nhat la: 
+6->5->1->3->4->2->6
+Luong mat thu duoc:
+355
